@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "lint": "^0.8.19",
+    "react-tag-autocomplete": "^6.3.0"
+  }
+}
